@@ -7,3 +7,4 @@ notifications:
         - neo@codingarena.in
       on_success: [change]
       on_failure: [always]
+bundler_args: ""
