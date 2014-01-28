@@ -112,6 +112,7 @@ DEPENDENCIES
   mocha
   rails
   rails-backbone!
+  rake
   sass
   sqlite3
   turn

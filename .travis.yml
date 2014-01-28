@@ -8,3 +8,4 @@ notifications:
       on_success: [change]
       on_failure: [always]
 bundler_args: ""
+script: rake test
