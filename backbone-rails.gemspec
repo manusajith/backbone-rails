@@ -22,8 +22,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency('uglifier')
   s.add_development_dependency('turn')
   s.add_development_dependency('minitest')
-  s.add_development_dependency('rake')
-  s.add_development_dependency('bundler')
   
   s.require_paths = ['lib']
 end
