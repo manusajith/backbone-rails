@@ -107,6 +107,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   jquery-rails
   minitest
   mocha
